@@ -6,7 +6,8 @@
    <br>Para criar domínio gratuito, utilize o link: https://my.freenom.com
    
 2. Licença Trial Microsoft 365
-   <br>Para solicitar um Trial do Office 365 E5 utilize o link: http://go.microsoft.com/fwlink/p/?LinkID=698279&culture=pt-BR&country=BR
+   <br>Para solicitar um Trial do Office 365 E5 utilize o link (necessário celular e CNPJ): http://go.microsoft.com/fwlink/p/?LinkID=698279&culture=pt-BR&country=BR
+   <br>Para solicitar um Trial do Office 365 Business Premium utilize o link (necessário celular e cartão): http://go.microsoft.com/fwlink/p/?LinkID=698279&culture=pt-BR&country=BR
    
 3. Máquina Virtual com Windows Server (Pode ser criado no HyperV, Virtual box, Vmware, Azure, AWS ou preferida)  
    Para criar máquina virtual utilize o link https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
