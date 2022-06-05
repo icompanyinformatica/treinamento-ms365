@@ -1,7 +1,7 @@
 # Modulo 02 - Gerenciamento Domínios, Usuários, Grupos, Recursos e Licenças.
 
 # Consultas Propagação DNS
-https://www.digwebinterface.com/?hostnames=gmgb.com.br
+https://www.digwebinterface.com/
 
 # PowerShell
 https://docs.microsoft.com/en-us/powershell/module/msonline/get-msoldomain?view=azureadps-1.0
