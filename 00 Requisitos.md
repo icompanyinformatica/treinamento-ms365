@@ -8,7 +8,7 @@
 2. Licença Trial Microsoft 365
    <br>Para solicitar um Trial do Office 365 E5 utilize o link (necessário celular e CNPJ): http://go.microsoft.com/fwlink/p/?LinkID=698279&culture=pt-BR&country=BR
    <br>ou
-   <br>Para solicitar um Trial do Office 365 Business Premium utilize o link (necessário celular e cartão): http://go.microsoft.com/fwlink/p/?LinkID=698279&culture=pt-BR&country=BR
+   <br>Para solicitar um Trial do Office 365 Business Premium utilize o link (necessário celular e cartão): https://signup.microsoft.com/get-started/signup?products=53e11149-82f9-4bca-a7f2-8f72592e4f03&culture=pt-br&country=BR&ali=1
    
 3. Máquina Virtual com Windows Server (Pode ser criado no HyperV, Virtual box, Vmware, Azure, AWS ou preferida)  
    Para criar máquina virtual utilize o link https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
