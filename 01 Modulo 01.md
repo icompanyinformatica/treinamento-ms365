@@ -39,6 +39,14 @@ https://www.microsoft.com/pt-br/microsoft-365/academic/compare-office-365-educat
 https://powerplatform.microsoft.com/pt-br/
 <br>###########
 
+#Exchange Online
+https://www.microsoft.com/pt-br/microsoft-365/exchange/compare-microsoft-exchange-online-plans
+<br>###########
+
+#EMS
+https://www.microsoft.com/pt-br/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing
+<br>###########
+
 # Licenciamento
 ![image](https://user-images.githubusercontent.com/49683486/172044903-4e3bf060-4b30-4969-bfea-5878e353748c.png)
 ![image](https://user-images.githubusercontent.com/49683486/172044939-a7383645-56cc-4ef1-a2d0-76e7144de018.png)
