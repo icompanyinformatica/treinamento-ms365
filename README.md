@@ -24,3 +24,5 @@ Cenários
 ![Proposto](https://user-images.githubusercontent.com/49683486/172040215-5c8ed169-60b5-4b39-bd77-8a06288af004.png)
 
 Cronograma
+
+![image](https://user-images.githubusercontent.com/49683486/172044095-1d57bcc3-3f7f-4437-85f0-8c6c1d0f1b10.png)
