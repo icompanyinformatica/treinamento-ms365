@@ -1,9 +1,10 @@
 # Modulo 02 - Gerenciamento Domínios, Usuários, Grupos, Recursos e Licenças.
 
-# POwerShell
-https://docs.microsoft.com/en-us/powershell/module/msonline/get-msoldomain?view=azureadps-1.0
+# Consultas Propagação DNS
+https://www.digwebinterface.com/?hostnames=gmgb.com.br
 
-# Domínios
+# PowerShell
+https://docs.microsoft.com/en-us/powershell/module/msonline/get-msoldomain?view=azureadps-1.0
 
 # Importe Modulos
 Import-Module MSOnline
@@ -11,28 +12,30 @@ Import-Module MSOnline
 <br>Import-Module AzureADPreview
 <br>connect-msolservice
 
-# Criar um Domínio 
-New-MsolDomain -Name contoso.com.br
+# Gerenciamento Domínios
+
+#Criar um Domínio 
+<br>New-MsolDomain -Name contoso.com.br
 <br>New-MsolDomain –Authentication Managed –Name contoso.com.br
 
-# Consulta Domínio
+#Consulta Domínio
 Get-MsolDomain
 <br>Get-MsolDomain -Status Verified
 <br>Get-MsolDomainVerificationDns –DomainName contoso.com.br –Mode DnsTxtRecord
 
-# Confimar Domínio
-Confirm-MsolEmailVerifiedDomain -DomainName contoso.com.br
+#Confimar Domínio
+<br>Confirm-MsolEmailVerifiedDomain -DomainName contoso.com.br
 
-# Remover Domínio
-Remove-MsolDomain -DomainName contoso.com.br -Force
+#Remover Domínio
+<br>Remove-MsolDomain -DomainName contoso.com.br -Force
 
-# Usuários
+# Gerenciamento Usuários
 
-# Consultar Usuários
+#Consultar Usuários
 <br>Get-MsolUser
 
-# Criar Usuário
+#Criar Usuário
 <br>New-MsolUser -UserPrincipalName "userxx@contoso.com.br" -DisplayName "User XX" -FirstName "Userxx" -LastName "XX"
 
-# Remover Usuário
+#Remover Usuário
 <br>Remove-MsolUser -UserPrincipalName "userxx@contoso.com.br"
