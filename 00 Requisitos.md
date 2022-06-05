@@ -1,6 +1,6 @@
 # Treinamento Microsoft 365
 
-# Requisitos
+# Requisitos Laboratório
 
 1. Domínio Valido para DNS
    <br>Para criar domínio gratuito, utilize o link: https://my.freenom.com
