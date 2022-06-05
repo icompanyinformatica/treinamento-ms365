@@ -5,7 +5,7 @@ Treinamento Microsoft 365
 1. Domínio Valido para DNS
    Para criar domnínio gratuito, utilize o link: https://my.freenom.com
    
-2. Licença Trial Microsoft 365;
+2. Licença Trial Microsoft 365
    Para solicitar um Trial do Office 365 E5 utilize o link: http://go.microsoft.com/fwlink/p/?LinkID=698279&culture=pt-BR&country=BR
    
 3. Máquina Virtual com Windows Server (Pode ser criado no HyperV, Virtual box, Vmware, Azure, AWS ou preferida)  
