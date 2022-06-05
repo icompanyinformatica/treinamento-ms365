@@ -1,6 +1,6 @@
 # Modulo 02 - Gerenciamento Domínios, Usuários, Grupos, Recursos e Licenças.
 
-
+# POwerShell
 https://docs.microsoft.com/en-us/powershell/module/msonline/get-msoldomain?view=azureadps-1.0
 
 # Domínios
