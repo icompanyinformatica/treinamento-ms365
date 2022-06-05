@@ -19,4 +19,6 @@ Treinamento Microsoft 365
    
 Cenários 
    
-![Live-Topologia-1](https://user-images.githubusercontent.com/49683486/172038933-64be134d-4de6-462c-a7bb-618aa78e6480.png)
+![Atual](https://user-images.githubusercontent.com/49683486/172040198-4ddc9023-93e4-4047-a922-c4075c94f206.png)
+
+![Proposto](https://user-images.githubusercontent.com/49683486/172040215-5c8ed169-60b5-4b39-bd77-8a06288af004.png)
