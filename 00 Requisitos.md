@@ -19,9 +19,9 @@
    
 Cenários 
    
-![Atual](https://user-images.githubusercontent.com/49683486/172040198-4ddc9023-93e4-4047-a922-c4075c94f206.png)
+![Atual](https://user-images.githubusercontent.com/49683486/172049836-9bc337f2-0b07-44e0-934a-0454f2b6690d.png)
 
-![Proposto](https://user-images.githubusercontent.com/49683486/172049572-d40d570f-7b4a-4221-864e-30ef2d11e9ff.png)
+![Proposto](https://user-images.githubusercontent.com/49683486/172049859-c72be4ea-a0ce-46b0-b716-f067d63dff50.png)
 
 Cronograma
 
