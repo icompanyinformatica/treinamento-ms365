@@ -31,6 +31,6 @@ Cenários
 
 Cronograma
 
-![image](https://user-images.githubusercontent.com/49683486/172044095-1d57bcc3-3f7f-4437-85f0-8c6c1d0f1b10.png)
+<img width="1062" alt="image" src="https://user-images.githubusercontent.com/49683486/172419161-da35a7f4-4f55-4425-8969-369118e69776.png">
 
 FIM
