@@ -6,7 +6,9 @@
    <br>Para criar domínio gratuito, utilize o link: https://my.freenom.com
    
 2. Licença Trial Microsoft 365
-   <br>Para solicitar um Trial do Office 365 E5 utilize o link (necessário celular e CNPJ): http://go.microsoft.com/fwlink/p/?LinkID=698279&culture=pt-BR&country=BR
+   <br>Para solicitar um trial do Microsoft 365 Standard utilize o link (necessário celular) https://portal.office.com/partner/partnersignup.aspx?type=Trial&id=f930080b-eba6-41b0-ad2c-ad8e03c6bc5f&msppid=3467457
+   <br>ou
+   <br>Para solicitar um Trial do Microsoft 365 E5 utilize o link (necessário celular e CNPJ): http://go.microsoft.com/fwlink/p/?LinkID=698279&culture=pt-BR&country=BR
    <br>ou
    <br>Para solicitar um Trial do Office 365 Business Premium utilize o link (necessário celular e cartão): https://signup.microsoft.com/get-started/signup?products=53e11149-82f9-4bca-a7f2-8f72592e4f03&culture=pt-br&country=BR&ali=1
    
