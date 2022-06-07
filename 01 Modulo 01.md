@@ -57,7 +57,7 @@ https://www.microsoft.com/pt-br/microsoft-365/enterprise-mobility-security/compa
 <img width="605" alt="image" src="https://user-images.githubusercontent.com/49683486/172419633-6f7640e6-8f63-48b3-b07d-b3f40ac14d52.png">
 
 #Conceitos Nuvem <br>
-<img width="755" alt="image" src="https://user-images.githubusercontent.com/49683486/172419939-c33d3c78-396f-45c3-a5ef-ca77dee6c059.png">
+<img width="748" alt="image" src="https://user-images.githubusercontent.com/49683486/172420893-0f2982d4-9b67-4e97-9bf9-8527f6675fea.png">
 
 #Tipos Nuvem <br>
 <img width="752" alt="image" src="https://user-images.githubusercontent.com/49683486/172420265-9cb364f8-1a51-403d-b50d-d21579428356.png">
