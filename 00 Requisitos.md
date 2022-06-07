@@ -6,6 +6,13 @@
    <br>Para criar domínio gratuito, utilize o link: https://my.freenom.com
    <br>Para criar domínio pago, utilize o link: https://registro.br/ ou de preferencia
    
+   Notas:
+   <br>domínio filial365.cf (usado para DNS+EMAIL IMAP No Hostinger) => pode usar provedor de sua preferencia;
+   <br>domínio filial365.cf (usado o DNS do Hostinger) => será usado para migrar e-mails imap para Exchange Online;
+   
+   <br>domínio matriz365.cf (usado para DNS+EMAIL No Microsoft 365);
+   <br>dompinio matriz.cf  (usado o DNS da Microsoft);
+   
 2. Licença Trial Microsoft 365
    <br>Para solicitar um trial do Microsoft 365 Standard utilize o link (necessário celular) https://portal.office.com/partner/partnersignup.aspx?type=Trial&id=f930080b-eba6-41b0-ad2c-ad8e03c6bc5f&msppid=3467457
    <br>ou
