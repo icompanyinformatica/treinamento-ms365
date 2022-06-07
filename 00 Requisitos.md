@@ -4,6 +4,7 @@
 
 1. Domínio Valido para DNS
    <br>Para criar domínio gratuito, utilize o link: https://my.freenom.com
+   <br>Para criar domínio pago, utilize o link: https://registro.br/ ou de preferencia
    
 2. Licença Trial Microsoft 365
    <br>Para solicitar um trial do Microsoft 365 Standard utilize o link (necessário celular) https://portal.office.com/partner/partnersignup.aspx?type=Trial&id=f930080b-eba6-41b0-ad2c-ad8e03c6bc5f&msppid=3467457
