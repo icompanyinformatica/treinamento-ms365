@@ -12,9 +12,13 @@
    
 3. Máquina Virtual com Windows Server (Pode ser criado no HyperV, Virtual box, Vmware, Azure, AWS ou preferida)  
    Para criar máquina virtual utilize o link https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
-   <br>Servidor precisar ter Windows Server 2016 ou superior com o mínimo de 4 GB de RAM e o runtime do .NET 4.7.1+
-   
-4. Provedor de e-mail Imap com contas ativas
+   <br>Servidor precisar ter Windows Server 2016 ou superior com o mínimo de 4 GB de RAM, 30 GB disco e o runtime do .NET 4.7.1+
+
+4. Máquina Virtual com Windows 11 ou 10 (Pode ser criado no HyperV, Virtual box, Vmware, Azure, AWS ou preferida)  
+   Para criar máquina virtual utilize o link https://www.microsoft.com/pt-br/software-download/windows11
+   <br>Máquina Virtual precisa ter Windows 10 ou 11 com o mínimo de 4 GB de RAM, 30 GB disco.
+    
+5. Provedor de e-mail Imap com contas ativas
    <br>segue sugestões gratuitas ou preferida : https://www.umbler.com/br ou https://support.google.com/accounts/answer/27441?hl=pt-BR
    <br>segue sugestões paga ou preferida: https://www.hostinger.com.br/hospedagem-de-email
    <br>e-mail precisa estar com imap liberado na porta 993 ou 143 
