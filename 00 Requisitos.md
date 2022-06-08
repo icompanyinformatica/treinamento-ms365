@@ -8,7 +8,7 @@
    
    Notas:
    <br>domínio filial365.cf (usado para DNS+EMAIL IMAP No Hostinger) => pode usar provedor de sua preferencia;
-   <br>domínio filial365.cf (usado o DNS do Hostinger) => será usado para migrar e-mails imap para Exchange Online;
+   <br>domínio filial365.cf (usado o DNS do Hostinger) => será usado para migrar e-mails imap para Exchange Online (modulo Exchnage Online);
    <img width="873" alt="image" src="https://user-images.githubusercontent.com/49683486/172506059-decd6a6a-fea4-4826-b77d-38b7aecdd239.png">
 
    domínio matriz365.cf (usado para DNS+EMAIL No Microsoft 365);
