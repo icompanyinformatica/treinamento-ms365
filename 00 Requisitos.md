@@ -17,12 +17,12 @@
 
    
 2. Licença Trial Microsoft 365
-   <br>2.1. Para solicitar um trial do Microsoft 365 Standard utilize o link (necessário celular + Na opção delegação coloque "não") https://portal.office.com/partner/partnersignup.aspx?type=Trial&id=f930080b-eba6-41b0-ad2c-ad8e03c6bc5f&msppid=3467457
+   <br>2.1. Para solicitar um Trial do Microsoft 365 E5 utilize o link (necessário celular e CNPJ): http://go.microsoft.com/fwlink/p/?LinkID=698279&culture=pt-BR&country=BR
    <br>ou
-   <br>2.2. Para solicitar um Trial do Microsoft 365 E5 utilize o link (necessário celular e CNPJ): http://go.microsoft.com/fwlink/p/?LinkID=698279&culture=pt-BR&country=BR
+   <br>2.2. Para solicitar um Trial do Office 365 Business Premium utilize o link (necessário celular e cartão): https://signup.microsoft.com/get-started/signup?products=53e11149-82f9-4bca-a7f2-8f72592e4f03&culture=pt-br&country=BR&ali=1
    <br>ou
-   <br>2.3. Para solicitar um Trial do Office 365 Business Premium utilize o link (necessário celular e cartão): https://signup.microsoft.com/get-started/signup?products=53e11149-82f9-4bca-a7f2-8f72592e4f03&culture=pt-br&country=BR&ali=1
-   
+<br>2.3. Para solicitar um trial do Microsoft 365 Standard utilize o link (necessário celular + Na opção delegação coloque "não") https://portal.office.com/partner/partnersignup.aspx?type=Trial&id=f930080b-eba6-41b0-ad2c-ad8e03c6bc5f&msppid=3467457
+      
 3. Máquina Virtual com Windows Server (Pode ser criado no HyperV, Virtual box, Vmware, Azure, AWS ou preferida)  
    Para criar máquina virtual utilize o link https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
    <br>Servidor precisar ter Windows Server 2016 ou superior com o mínimo de 4 GB de RAM, 30 GB disco e o runtime do .NET 4.7.1+
