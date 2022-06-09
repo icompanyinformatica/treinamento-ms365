@@ -33,6 +33,7 @@ https://docs.microsoft.com/en-us/powershell/module/msonline/get-msoldomain?view=
 # Consultas Propagação DNS
 <br>https://www.whatsmydns.net/
 <br>https://www.digwebinterface.com/
+<br>https://mxtoolbox.com/Public/Content/Toolhandler.aspx?command=mx
 <br>nslookup -type=TXT matriz365.cf 8.8.8.8
 <br>nslookup -type=MX matriz365.cf 8.8.8.8
 
