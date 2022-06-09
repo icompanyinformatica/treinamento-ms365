@@ -17,7 +17,7 @@
 
    
 2. Licença Trial Microsoft 365
-   <br>2.1. Para solicitar um trial do Microsoft 365 Standard utilize o link (necessário celular) https://portal.office.com/partner/partnersignup.aspx?type=Trial&id=f930080b-eba6-41b0-ad2c-ad8e03c6bc5f&msppid=3467457
+   <br>2.1. Para solicitar um trial do Microsoft 365 Standard utilize o link (necessário celular + Na opção delegação coloque "não") https://portal.office.com/partner/partnersignup.aspx?type=Trial&id=f930080b-eba6-41b0-ad2c-ad8e03c6bc5f&msppid=3467457
    <br>ou
    <br>2.2. Para solicitar um Trial do Microsoft 365 E5 utilize o link (necessário celular e CNPJ): http://go.microsoft.com/fwlink/p/?LinkID=698279&culture=pt-BR&country=BR
    <br>ou
