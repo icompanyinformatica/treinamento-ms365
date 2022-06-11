@@ -4,7 +4,7 @@
 <br>https://www.microsoft.com/pt-br/security/business/identity-access-management/azure-ad-pricing?rtc=1
 <br>https://azure.microsoft.com/pt-br/pricing/details/active-directory-ds/
 <br>https://azure.microsoft.com/pt-br/pricing/details/active-directory/external-identities/
-<br>https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/ <br>
+<br>https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/ 
 <br>https://docs.microsoft.com/pt-br/azure/active-directory/cloud-sync/what-is-cloud-sync?toc=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Fazure%2Factive-directory%2Fcloud-sync%2Ftoc.json&bc=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Fazure%2Fbread%2Ftoc.json
 
 #Identidades Híbridas Disponíveis
