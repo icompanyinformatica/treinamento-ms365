@@ -93,4 +93,18 @@ $OldSMTP= 'smtp:'+$User.SamAccountName+$OldEmail
 
 Set-ADUser -Identity $user.DistinguishedName -Remove @{ProxyAddresses= $OldSMTP} -Server SRVDC01.matriz365.local
                            } 
-#fim
+<br>#fim
+
+# Script para desativar e ativar serviço de sincronismo 
+
+#Desativar
+Import-Module MSOnline
+Connect-MsolService
+Set-MsolDirSyncEnabled –EnableDirSync $false
+
+#Ativar
+Import-Module MSOnline
+Connect-MsolService
+Set-MsolDirSyncEnabled –EnableDirSync $false
+
+<BR>FIM
