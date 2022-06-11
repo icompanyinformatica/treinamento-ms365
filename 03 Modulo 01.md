@@ -97,12 +97,12 @@ Set-ADUser -Identity $user.DistinguishedName -Remove @{ProxyAddresses= $OldSMTP}
 
 # Script para desativar e ativar serviço de sincronismo 
 
-<br>#Desativar
+<br>#Desativar <br>
 Import-Module MSOnline
 Connect-MsolService
 Set-MsolDirSyncEnabled –EnableDirSync $false
 
-<br>#Ativar
+<br>#Ativar <br>
 Import-Module MSOnline
 Connect-MsolService
 Set-MsolDirSyncEnabled –EnableDirSync $false
