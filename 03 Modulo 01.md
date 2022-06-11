@@ -20,7 +20,11 @@
 
 ![image](https://user-images.githubusercontent.com/49683486/173201477-104c47d4-f073-47e7-b7a2-74c30744b662.png)
 
-<br>#Script para Criar Usuários no AD (copie o código até # fim e salve como .PS1) <br>
+# Topologia e Diferenças AD Connect e AD Connect Cloud Sync
+
+![image](https://user-images.githubusercontent.com/49683486/173202407-500c1586-db51-41e3-9a8f-974587e78b81.png)
+
+# Script para Criar Usuários no AD (copie o código até # fim e salve como .PS1) <br>
 <br>#Importe Modulo
 <br>Import-Module ActiveDirectory <br>
 <br>#Senhas<br>
@@ -92,7 +96,7 @@ Foreach ($User in $Users) {
 $OldSMTP= 'smtp:'+$User.SamAccountName+$OldEmail
 
 Set-ADUser -Identity $user.DistinguishedName -Remove @{ProxyAddresses= $OldSMTP} -Server SRVDC01.matriz365.local
-                           } 
+                           } <br>
 <br>#fim
 
 # Script para desativar e ativar serviço de sincronismo 
@@ -105,6 +109,6 @@ Set-MsolDirSyncEnabled –EnableDirSync $false
 <br>#Ativar <br>
 Import-Module MSOnline
 Connect-MsolService
-Set-MsolDirSyncEnabled –EnableDirSync $false
+Set-MsolDirSyncEnabled –EnableDirSync $true
 
 FIM
