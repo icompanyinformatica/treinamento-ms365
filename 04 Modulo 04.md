@@ -105,6 +105,16 @@ Get-EXOMailboxFolderPermission -Identity alex.sousa@matriz365.cf | fl
 
 ![image](https://user-images.githubusercontent.com/49683486/173578118-4246844c-ee0f-4560-a22b-8dfd057af887.png)
 
+# Amostras Caixa Compartilhada e Arquivo Morto
+
+#Caixa Compartilhada
+
+![image](https://user-images.githubusercontent.com/49683486/173621476-ed85efa3-66ba-4a68-80ea-c60a393ba37d.png)
+
+#Arquivo Morto
+
+![image](https://user-images.githubusercontent.com/49683486/173625270-cfb48929-6245-41ed-9877-2be8cb49b7c6.png)
+
 # Conectores Meio Hibrido - Gateway Symantec Usado - Apoio a Aluno 
 
 ![image](https://user-images.githubusercontent.com/49683486/173584980-9b62c22d-1d57-48e0-8a52-cac5976bb553.png)
