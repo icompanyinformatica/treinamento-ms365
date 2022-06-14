@@ -25,7 +25,7 @@
       
 3. Máquina Virtual com Windows Server (Pode ser criado no HyperV, Virtual box, Vmware, Azure, AWS ou preferida)  
    Para criar máquina virtual utilize o link https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
-   <br>Servidor precisar ter Windows Server 2016 ou superior com o mínimo de 4 GB de RAM, 30 GB disco e o runtime do .NET 4.7.1+
+   <br>Servidor precisar ter Windows Server 2016 ou superior com o mínimo de 4 GB de RAM, 30 GB disco e o runtime do .NET 4.7.1+ com todas as atualizações atuais.
 
 4. Máquina Virtual com Windows 11 ou 10 (Pode ser criado no HyperV, Virtual box, Vmware, Azure, AWS ou preferida)  
    Para criar máquina virtual utilize o link https://www.microsoft.com/pt-br/software-download/windows11
